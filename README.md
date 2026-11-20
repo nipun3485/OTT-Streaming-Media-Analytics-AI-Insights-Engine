@@ -9,7 +9,7 @@ Developed as a laboratory project consolidating ten core Big Data experiments in
 ## Project Team & Academic Details
 
 * **Institution:** School of Computer Science, University of Petroleum and Energy Studies (UPES), Dehradun
-* **Course:** introduction to Big Data and AI Systems Laboratory
+* **Course:** Introduction to Big Data and AI Systems Laboratory
 * **Developers:**
   * **Nipun Singh** (SAP ID: `590029310`)
   * **Manasvi Kaushal** (SAP ID: `590023137`)
