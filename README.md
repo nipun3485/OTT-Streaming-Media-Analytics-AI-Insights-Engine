@@ -2,14 +2,14 @@
 
 An end-to-end Big Data engineering pipeline and Generative AI reporting dashboard built with **Apache PySpark**, **simulated HDFS**, **MySQL**, **AWS S3**, **Streamlit**, and the **Google Gemini API (`gemini-2.5-flash`)**.
 
-Developed as a capstone laboratory project consolidating ten core Big Data experiments into a single unified software workflow.
+Developed as a laboratory project consolidating ten core Big Data experiments into a single unified software workflow.
 
 ---
 
 ## Project Team & Academic Details
 
 * **Institution:** School of Computer Science, University of Petroleum and Energy Studies (UPES), Dehradun
-* **Course:** Big Data Analytics Laboratory
+* **Course:** introduction to Big Data and AI Systems Laboratory
 * **Developers:**
   * **Nipun Singh** (SAP ID: `590029310`)
   * **Manasvi Kaushal** (SAP ID: `590023137`)
